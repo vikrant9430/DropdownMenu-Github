@@ -12,7 +12,7 @@ public class DropDownExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.setProperty("webdriver.gecko.driver", "C:\\Users\\Vikrant Nandan\\"
+		System.setProperty(".gecko.driver", "C:\\Users\\Vikrant Nandan\\"
 				+ "Desktop\\Hub\\SQT\\Selenium WebDriver\\Selenium Drivers"
 				+ "\\Browser Driver\\geckodriver.exe");
 		
